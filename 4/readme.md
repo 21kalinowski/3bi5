@@ -61,10 +61,13 @@ A subsection that presents a detailed description of the individual functionalit
 - [SQL]
 - [MySql/MariaDb]
 - [Apache]
+## Layout for form in HTML
+
+[link to layout][form]
 ## Wireframe the main form on the application subpage
 
 [Wireframe the main form][wireframeMain]
 
  [erd]: <https://github.com/Michal3456/3bi5/blob/main/4/sprites/erd%20diagram.png>
  [osd]: <https://github.com/Michal3456/3bi5/blob/main/4/sprites/osd.png>
- 
+ [form]: <https://github.com/Michal3456/3bi5/blob/main/4/sprites/layout.png>

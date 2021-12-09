@@ -65,9 +65,9 @@ A subsection that presents a detailed description of the individual functionalit
 - [MySql/MariaDb]
 - [Apache]
 
-## layout
-Layout form
-[link to diagram ERD in jpg][lol]
+## layout form of html
+
+[Link to layout form][lol]
 
  [erd]: <https://github.com/Michal3456/3bi5/blob/main/2/Sprites/ERD.png>
  [osd]: <https://github.com/Michal3456/3bi5/blob/main/2/Sprites/ORGchart.png>

@@ -66,8 +66,12 @@ A subsection that presents a detailed description of the individual functionalit
 
 [Link to layout form][lol]
 
+## Sketch a database without establishing a relationship
+
+[link to sketch a database][skt]
+
  [erd]: <https://github.com/Michal3456/3bi5/blob/main/2/Sprites/ERD.png>
  [osd]: <https://github.com/Michal3456/3bi5/blob/main/2/Sprites/ORGchart.png>
  [lol]: <https://github.com/Michal3456/3bi5/blob/main/2/Sprites/layout2.png>
- 
+ [skt]: <https://github.com/Michal3456/3bi5/blob/main/2/Sprites/>
 

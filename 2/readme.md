@@ -73,5 +73,5 @@ A subsection that presents a detailed description of the individual functionalit
  [erd]: <https://github.com/Michal3456/3bi5/blob/main/2/Sprites/ERD.png>
  [osd]: <https://github.com/Michal3456/3bi5/blob/main/2/Sprites/ORGchart.png>
  [lol]: <https://github.com/Michal3456/3bi5/blob/main/2/Sprites/layout2.png>
- [skt]: <https://github.com/Michal3456/3bi5/blob/main/2/Sprites/>
+ [skt]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
 

@@ -75,7 +75,7 @@ A subsection that presents a detailed description of the individual functionalit
 
 ## Example of an empty wireframe of the main form on a subpage
 
-[Wireframe empty][wireframeExample]
+[Wireframe][wireframeExample]
 
 ## Wireframe the main form on the application subpage
 

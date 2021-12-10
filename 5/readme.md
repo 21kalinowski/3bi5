@@ -51,6 +51,10 @@ A subsection that presents a detailed description of the individual functionalit
 
 ### Back-end executed in PHP language and auxiliary scripts
 
+## Entity Relationship Diagram
+
+[link to diagram ERD in jpg][erd]
+
 ## Technologies, programming languages and others
 
 Dillinger uses a number of open source projects to work properly:
@@ -61,10 +65,6 @@ Dillinger uses a number of open source projects to work properly:
 - [SQL]
 - [MySql/MariaDb]
 - [Apache]
-
-## Entity Relationship Diagram
-
-[link to diagram ERD in jpg][erd]
 
 ## Organizational structure diagram
 

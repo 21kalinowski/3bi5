@@ -72,8 +72,14 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to layout][layout]
 
- [erd]: <https://github.com/Michal3456/3bi5/blob/main/5/sprites/ERDf.png>
- 
- [osd]: <https://github.com/Michal3456/3bi5/blob/main/5/sprites/d.png>
+## Wireframe the main form on the application subpage
+[Wireframe the main form][wireframe]
 
+## Sketch a database without establishing a relationship
+[link to sketch a database][sketch]
+
+ [erd]: <https://github.com/Michal3456/3bi5/blob/main/5/sprites/ERDf.png>
+ [osd]: <https://github.com/Michal3456/3bi5/blob/main/5/sprites/d.png>
+ [wireframe]: <https://github.com/Michal3456/3bi5/blob/main/5/sprites/wireframe.png>
+ [sketch]: <https://github.com/Michal3456/3bi5/blob/main/5/sprites/sketch%20database.png>
  [layout]: <https://github.com/Michal3456/3bi5/blob/main/5/sprites/layout.png>

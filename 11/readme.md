@@ -44,8 +44,7 @@ The above functionalities are tested and work according to their roles.
 [https://github.com/Michal3456/3bi5/blob/main/11/sprites/ERD.drawio.png]
 
 ## Organizational structure diagram
-
-[link to diagram OSD in jpg][osd]
+[https://github.com/Michal3456/3bi5/blob/main/11/sprites/org.drawio.png]
 
 ## Cpecific functionalities
 

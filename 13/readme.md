@@ -10,6 +10,7 @@
 | 1.1 | 02.12.2021 | adding ERD |
 | 1.2 | 03.12.2021 | adding organizational structure |
 | 1.3 | 08.12.2021 | adding layout form in HTML |
+| 1.4 | 10.12.2021 | database with only tables - sketch a database without establishing a relationship |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 

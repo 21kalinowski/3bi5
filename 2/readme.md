@@ -1,4 +1,4 @@
-# GPS 
+# GPS Finder
 
 ## _contractor: Adrian Domżalski_
 ## _principal: Michał Czerwiński_

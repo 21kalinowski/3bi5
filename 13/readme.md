@@ -72,8 +72,15 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to layout][form]
 
+## Sketch a database without establishing a relationship
+
+[link to sketch a database][db]
+
+
  [erd]: <https://github.com/Michal3456/3bi5/blob/main/13/Sprites/Mateusz.drawio.png>
  
  [osd]: <https://github.com/Michal3456/3bi5/blob/main/13/Sprites/orgchat.drawio.png>
  
  [form]: <https://github.com/Michal3456/3bi5/blob/main/13/Sprites/layout.png>
+
+ [db]: <https://github.com/Michal3456/3bi5/blob/main/13/Sprites/database.png>

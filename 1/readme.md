@@ -11,6 +11,7 @@
 | 1.2 | 03.12.2021 | adding OSD |
 | 1.3 | 09.12.2021 | adding layout |
 | 1.4 | 09.12.2021 | adding wireframe |
+| 1.5 | 10.12.2021 | adding database sketch |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -87,7 +88,7 @@ A subsection that presents a detailed description of the individual functionalit
  
  [form]: <https://github.com/Michal3456/3bi5/blob/main/1/sprites/layout.drawio.png>
  
- [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
+ [db]: <https://github.com/Michal3456/3bi5/blob/main/1/sprites/database.drawio.png>
  
  [wireframeMain]: <https://github.com/Michal3456/example_project/blob/main/sprites/a_wireframe_subpage_with_the_main_application_form.jpg>
  

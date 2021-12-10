@@ -64,6 +64,9 @@ A subsection that presents a detailed description of the individual functionalit
 ## Layout for form in HTML
 
 [link to layout][form]
+## Sketch a database without establishing a relationship
+
+[link to sketch a database][db]
 ## Wireframe the main form on the application subpage
 
 [Wireframe the main form][wireframeMain]
@@ -72,3 +75,4 @@ A subsection that presents a detailed description of the individual functionalit
  [osd]: <https://github.com/Michal3456/3bi5/blob/main/4/sprites/osd.png>
  [form]: <https://github.com/Michal3456/3bi5/blob/main/4/sprites/layout.png>
  [wireframeMain]: <https://github.com/Michal3456/3bi5/blob/main/4/sprites/wire.png>
+ [db]: <https://github.com/Michal3456/3bi5/blob/main/4/sprites/database.png>
